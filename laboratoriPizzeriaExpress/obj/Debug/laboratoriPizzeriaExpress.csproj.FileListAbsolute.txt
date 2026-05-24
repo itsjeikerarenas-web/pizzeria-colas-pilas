@@ -1,0 +1,5 @@
+C:\Users\angel\OneDrive\Desktop\pizza\pizzeria-colas-pilas-main\laboratoriPizzeriaExpress\bin\Debug\laboratoriPizzeriaExpress.exe
+C:\Users\angel\OneDrive\Desktop\pizza\pizzeria-colas-pilas-main\laboratoriPizzeriaExpress\bin\Debug\laboratoriPizzeriaExpress.pdb
+C:\Users\angel\OneDrive\Desktop\pizza\pizzeria-colas-pilas-main\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.csprojResolveAssemblyReference.cache
+C:\Users\angel\OneDrive\Desktop\pizza\pizzeria-colas-pilas-main\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.exe
+C:\Users\angel\OneDrive\Desktop\pizza\pizzeria-colas-pilas-main\laboratoriPizzeriaExpress\obj\Debug\laboratoriPizzeriaExpress.pdb
